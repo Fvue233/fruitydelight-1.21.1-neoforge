@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "fruitydelight:apple_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:apple_juice"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:jungle_leaves",
+    "minecraft:oak_leaves",
+    "minecraft:spruce_leaves",
+    "minecraft:dark_oak_leaves",
+    "minecraft:acacia_leaves",
+    "minecraft:birch_leaves",
+    "minecraft:azalea_leaves",
+    "minecraft:flowering_azalea_leaves",
+    "minecraft:mangrove_leaves",
+    "minecraft:cherry_leaves",
+    "fruitydelight:apple_leaves",
+    "fruitydelight:flower_apple_leaves",
+    "fruitydelight:orange_leaves",
+    "fruitydelight:flower_orange_leaves",
+    "fruitydelight:banana_leaves",
+    "fruitydelight:flower_banana_leaves",
+    "fruitydelight:pear_leaves",
+    "fruitydelight:flower_pear_leaves"
+  ]
+}

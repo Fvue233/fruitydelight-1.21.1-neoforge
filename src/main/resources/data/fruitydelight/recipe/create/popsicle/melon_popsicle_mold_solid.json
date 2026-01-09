@@ -1,0 +1,13 @@
+{
+  "type": "create_dragons_plus:freezing",
+  "ingredients": [
+    {
+      "item": "ratatouille:melon_popsicle_mold_filled"
+    }
+  ],
+  "results": [
+    {
+      "id": "ratatouille:melon_popsicle_mold_solid"
+    }
+  ]
+}

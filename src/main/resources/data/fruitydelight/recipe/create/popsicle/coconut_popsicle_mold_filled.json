@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "beachparty"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "ratatouille:popsicle_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "fruitydelight:coconut_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:coconut_popsicle_mold_filled"
+    }
+  ]
+}

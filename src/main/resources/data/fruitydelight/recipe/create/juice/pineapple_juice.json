@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pineapple_delight"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "fruitydelight:pineapple_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "pineapple_delight:pineapple_juice"
+    }
+  ]
+}

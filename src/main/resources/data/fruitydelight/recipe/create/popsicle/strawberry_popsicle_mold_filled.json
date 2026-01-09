@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farm_and_charm"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "ratatouille:popsicle_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "fruitydelight:strawberry_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:strawberry_popsicle_mold_filled"
+    }
+  ]
+}

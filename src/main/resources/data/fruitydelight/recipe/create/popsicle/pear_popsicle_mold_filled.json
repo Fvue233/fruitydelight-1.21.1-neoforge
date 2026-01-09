@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "ratatouille:popsicle_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "fruitydelight:pear_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:pear_popsicle_mold_filled"
+    }
+  ]
+}

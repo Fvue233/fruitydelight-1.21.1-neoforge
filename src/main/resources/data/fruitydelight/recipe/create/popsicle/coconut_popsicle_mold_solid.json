@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "beachparty"
+    }
+  ],
+  "type": "create_dragons_plus:freezing",
+  "ingredients": [
+    {
+      "item": "fruitydelight:coconut_popsicle_mold_filled"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:coconut_popsicle_mold_solid"
+    }
+  ]
+}

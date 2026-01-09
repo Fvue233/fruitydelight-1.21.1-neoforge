@@ -1,0 +1,9 @@
+{
+  "hanging_fruit_pick": {
+    "subtitle": "subtitles.block.hanging_fruit.pick",
+    "sounds": [
+      "fruitydelight:hanging_fruit/pick1",
+      "fruitydelight:hanging_fruit/pick2"
+    ]
+  }
+}

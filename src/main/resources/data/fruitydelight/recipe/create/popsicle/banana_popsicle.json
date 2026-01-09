@@ -1,0 +1,16 @@
+{
+  "type": "ratatouille:demolding",
+  "ingredients": [
+    {
+      "item": "fruitydelight:banana_popsicle_mold_solid"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:banana_popsicle"
+    },
+    {
+      "id": "ratatouille:popsicle_mold"
+    }
+  ]
+}

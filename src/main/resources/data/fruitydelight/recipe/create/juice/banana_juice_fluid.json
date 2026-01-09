@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "fruitydelight:banana"
+    },
+    {
+      "item": "fruitydelight:banana"
+    },
+    {
+      "item": "fruitydelight:banana"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "fruitydelight:banana_juice"
+    }
+  ]
+}

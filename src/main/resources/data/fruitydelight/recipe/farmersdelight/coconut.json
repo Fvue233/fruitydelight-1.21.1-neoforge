@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "beachparty:coconut"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 2,
+        "id": "beachparty:coconut_open"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

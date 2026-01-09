@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_jungle",
+  "features": "fruitydelight:banana_tree_placed",
+  "step": "vegetal_decoration"
+}

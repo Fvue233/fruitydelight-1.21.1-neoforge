@@ -1,0 +1,13 @@
+{
+  "type": "create_dragons_plus:freezing",
+  "ingredients": [
+    {
+      "item": "fruitydelight:banana_popsicle_mold_filled"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:banana_popsicle_mold_solid"
+    }
+  ]
+}

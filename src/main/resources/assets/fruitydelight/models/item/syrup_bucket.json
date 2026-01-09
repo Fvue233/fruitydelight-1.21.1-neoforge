@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "fruitydelight:item/syrup_bucket"
+	}
+}

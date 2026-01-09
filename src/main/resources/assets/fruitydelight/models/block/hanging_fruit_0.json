@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "fruitydelight:block/hanging_fruity_0",
+		"particle": "fruitydelight:block/hanging_fruity_0"
+	},
+	"elements": [
+		{
+			"from": [7, 13, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"east": {"uv": [2, 0, 4, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"west": {"uv": [2, 0, 4, 3], "texture": "#1"},
+				"up": {"uv": [2, 5, 0, 3], "texture": "#1"},
+				"down": {"uv": [4, 3, 2, 5], "texture": "#1"}
+			}
+		}
+	]
+}

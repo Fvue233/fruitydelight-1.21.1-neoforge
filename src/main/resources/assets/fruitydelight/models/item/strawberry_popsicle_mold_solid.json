@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+    "textures": {
+    "layer0": "fruitydelight:item/popsicle/strawberry_popsicle_mold_solid"
+    }
+}

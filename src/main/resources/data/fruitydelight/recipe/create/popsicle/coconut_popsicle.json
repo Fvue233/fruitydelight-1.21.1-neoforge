@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "beachparty"
+    }
+  ],
+  "type": "ratatouille:demolding",
+  "ingredients": [
+    {
+      "item": "fruitydelight:coconut_popsicle_mold_solid"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:coconut_popsicle"
+    },
+    {
+      "id": "ratatouille:popsicle_mold"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fruitydelight:syrup_bucket"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "fruitydelight:syrup_bottle"
+  }
+}

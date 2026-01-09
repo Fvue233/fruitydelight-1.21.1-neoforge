@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farm_and_charm"
+    }
+  ],
+  "type": "create_dragons_plus:freezing",
+  "ingredients": [
+    {
+      "item": "fruitydelight:strawberry_popsicle_mold_filled"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:strawberry_popsicle_mold_solid"
+    }
+  ]
+}

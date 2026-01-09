@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "fruitydelight:block/flower_apple_leaves"
+  }
+}

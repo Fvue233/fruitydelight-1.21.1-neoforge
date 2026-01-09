@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "fruitydelight:bananas"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "fruitydelight:banana"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

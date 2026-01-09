@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pineapple_delight"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "ratatouille:popsicle_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "fruitydelight:pineapple_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:pineapple_popsicle_mold_filled"
+    }
+  ]
+}

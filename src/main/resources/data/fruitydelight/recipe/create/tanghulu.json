@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "fruitydelight:hawthorn_skewer"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "fruitydelight:syrup"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:tanghulu"
+    }
+  ]
+}
