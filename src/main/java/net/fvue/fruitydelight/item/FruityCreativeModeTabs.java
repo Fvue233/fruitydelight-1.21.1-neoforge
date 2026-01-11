@@ -61,6 +61,7 @@ public class FruityCreativeModeTabs {
                         output.accept(FruityItems.BANANA_POPSICLE_MOLD_FILLED);
                         output.accept(FruityItems.BANANA_POPSICLE_MOLD_SOLID);
                         output.accept(FruityItems.BANANA_JUICE);
+                        output.accept(FruityItems.HAWTHORN);
                         output.accept(FruityItems.HAWTHORN_SKEWER);
                         output.accept(FruityItems.TANGHULU);
                         if (ModList.get().isLoaded("beachparty")) {

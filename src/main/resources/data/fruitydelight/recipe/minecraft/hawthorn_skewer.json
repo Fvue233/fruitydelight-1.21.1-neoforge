@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "fruit_products",
+  "ingredients": [
+    {
+      "item": "fruitydelight:hawthorn"
+    },
+    {
+      "item": "fruitydelight:hawthorn"
+    },
+    {
+      "item": "fruitydelight:hawthorn"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruitydelight:hawthorn_skewer"
+  }
+}

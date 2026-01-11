@@ -25,6 +25,8 @@ public class FruityItems {
             ITEMS.register("pear",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT)));
     public static final DeferredItem<Item> ORANGE =
             ITEMS.register("orange",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT)));
+    public static final DeferredItem<Item> HAWTHORN =
+            ITEMS.register("hawthorn",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT_S)));
     /*public static final DeferredItem<Item> PEACH=
             ITEMS.register("peach",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT)));*/
     public static final DeferredItem<Item> BANANA=
@@ -93,9 +95,9 @@ public class FruityItems {
 
     //Tanghulu
     public static final DeferredItem<Item> HAWTHORN_SKEWER=
-            ITEMS.register("hawthorn_skewer",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT).durability(0)));
+            ITEMS.register("hawthorn_skewer",() -> new Item(new Item.Properties().food(FruityFoodComponents.HAWTHORN_SKEWER).durability(0)));
     public static final DeferredItem<Item> TANGHULU=
-            ITEMS.register("tanghulu",() -> new Item(new Item.Properties().food(FruityFoodComponents.FRUIT)));
+            ITEMS.register("tanghulu",() -> new Item(new Item.Properties().food(FruityFoodComponents.TANGHULU)));
     //bottle
     public static final DeferredItem<Item> SYRUP_BOTTLE =
             ITEMS.register("syrup_bottle",() -> new Item(new Item.Properties().stacksTo(16)));
