@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fruit_products",
+  "key": {
+    "S": {
+      "item": "minecraft:glass_bottle"
+    },
+    "W": {
+      "item": "fruitydelight:pear"
+    },
+    "M": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "WWM",
+    "WWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruitydelight:pear_juice"
+  }
+}

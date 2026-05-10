@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ratatouille"
+    }
+  ],
+  "type": "ratatouille:freezing",
+  "ingredients": [
+    {
+      "item": "fruitydelight:orange_popsicle_mold_filled"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:orange_popsicle_mold_solid"
+    }
+  ]
+}

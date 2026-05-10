@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pineapple_delight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fruit_products",
+  "key": {
+    "S": {
+      "item": "minecraft:glass_bottle"
+    },
+    "W": {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    "M": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "WWM",
+    "WWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruitydelight:pineapple_juice"
+  }
+}

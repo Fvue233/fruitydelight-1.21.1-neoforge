@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pineapple_delight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fruit_products",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    "#": {
+      "item": "minecraft:ice"
+    }
+  },
+  "pattern": [
+    " WW",
+    "#WW",
+    "A# "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruitydelight:pineapple_popsicle"
+  }
+}

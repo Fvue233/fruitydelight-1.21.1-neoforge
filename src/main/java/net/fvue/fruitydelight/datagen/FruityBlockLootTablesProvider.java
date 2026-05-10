@@ -1,6 +1,5 @@
 package net.fvue.fruitydelight.datagen;
 
-import net.fvue.fruitydelight.block.FruityBlocks;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;

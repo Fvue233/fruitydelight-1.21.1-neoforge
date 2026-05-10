@@ -1,9 +1,10 @@
 {
   "values": [
+    "minecraft:apple",
+    "fruitydelight:pear",
+    "fruitydelight:orange",
     "fruitydelight:bananas",
     "fruitydelight:banana",
-    "fruitydelight:orange",
-    "fruitydelight:pear",
-    "minecraft:apple"
+    "fruitydelight:hawthorn"
   ]
 }

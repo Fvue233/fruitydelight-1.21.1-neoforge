@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"bottom": "fruitydelight:block/apple_cake"
+	},
+	"elements": [
+		{
+			"from": [13, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [0.5, 12, 1.5, 16], "texture": "#bottom"},
+				"east": {"uv": [0.5, 12, 7.5, 16], "texture": "#bottom"},
+				"south": {"uv": [6.5, 12, 7.5, 16], "texture": "#bottom"},
+				"west": {"uv": [8.5, 12, 15.5, 16], "texture": "#bottom"},
+				"up": {"uv": [6.5, 0.5, 7.5, 7.5], "texture": "#bottom"},
+				"down": {"uv": [14.5, 0.5, 15.5, 7.5], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	],
+	"format_version": "1.21.6"
+}

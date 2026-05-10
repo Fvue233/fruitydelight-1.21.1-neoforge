@@ -1,7 +1,7 @@
 package net.fvue.fruitydelight.datagen;
 
 import net.fvue.fruitydelight.FruityDelight;
-import net.fvue.fruitydelight.block.FruityBlocks;
+import net.fvue.fruitydelight.init.FruityBlocks;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.minecraft.tags.BlockTags;

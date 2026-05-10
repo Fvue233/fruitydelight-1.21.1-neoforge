@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ratatouille"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "ratatouille:cake_base"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "fruitydelight:apple_jam"
+    }
+  ],
+  "results": [
+    {
+      "id": "fruitydelight:apple_cake"
+    }
+  ]
+}

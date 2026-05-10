@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fruit_products",
+  "key": {
+    "M": {
+      "tag": "c:foods/milk"
+    },
+    "W": {
+      "item": "minecraft:apple"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "E": {
+      "tag": "c:eggs"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WMW",
+    "SES",
+    "XXX "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruitydelight:apple_cake"
+  }
+}
